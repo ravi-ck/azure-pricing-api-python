@@ -1,4 +1,3 @@
-from sys import api_version
 from azure_pricing_api import get_pricing
 
 
