@@ -2,7 +2,7 @@
 azure-pricing-api is a python wrapper around the Azure Retail Prices Rest API, which helps you to eaily get Azure Retail Prices using python.
 We have tried to style it similar to the AWS pricing api.
 
-##Installation
+## Installation
 The pricing api could be easily installed by using the following command:
 
 ```bash
