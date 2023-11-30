@@ -1,8 +1,0 @@
-LICENSE
-README.md
-setup.py
-azure_pricing_api/azure_pricing_api.egg-info/PKG-INFO
-azure_pricing_api/azure_pricing_api.egg-info/SOURCES.txt
-azure_pricing_api/azure_pricing_api.egg-info/dependency_links.txt
-azure_pricing_api/azure_pricing_api.egg-info/requires.txt
-azure_pricing_api/azure_pricing_api.egg-info/top_level.txt

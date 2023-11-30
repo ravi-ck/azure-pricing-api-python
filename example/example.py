@@ -1,4 +1,4 @@
-from azure_pricing_api import get_pricing
+from azurepricingapi import get_pricing
 
 
 filter = [
