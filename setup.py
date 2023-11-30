@@ -11,6 +11,6 @@ setup(
     package_dir={"": "azure_pricing_api"},
     packages=find_packages(where="azure_pricing_api"),
     install_requires=[
-        "requests>=2.31.0"
+        "requests=2.31.0"
     ]
 )
