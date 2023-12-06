@@ -1,3 +1,6 @@
 /azure-pricing
 /.vscode
 /.DS_Store
+/azurepricingapi.egg-info
+/dist
+/build

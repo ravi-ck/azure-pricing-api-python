@@ -10,5 +10,5 @@ filter = [
 
 results = get_pricing(filter)
 
-for item in results[0]:
+for item in results:
     print(item)
