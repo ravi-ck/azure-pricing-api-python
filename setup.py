@@ -4,7 +4,7 @@ setup(
     name="azurepricingapi",
     version="0.3.0",
     description="Python SDK to leverage Azure Pricing API",
-    url="https://github.com/ravi-ck/azure-pricing-api-python",
+    url="https://github.com/tothenew/azure-pricing-api-python",
     author="Ravi Rana",
     author_email="ravi.rana@tothenew.com",
     license="Apache-2.0 license",
